@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **mwaqar7615@gmail.com** For Collaboration/Project or Anyth
 - 👯 **I’m looking to collaborate with any Software Company** 
 - 💬 **Ask me about:** Front-End Web Development, UI/UX Design, Responsive Design, JavaScript Frameworks
 - 📫 **How to reach me:** mwaqar7615@gmail.com
-- 😄 **Pronouns:** He
+- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Coding and Code Loves Me
 
 ## 🏆 GitHub Trophies
